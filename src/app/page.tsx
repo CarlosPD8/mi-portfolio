@@ -20,7 +20,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="mt-auto py-8">
         <div className="container mx-auto px-4 text-center text-sm text-[#006666]/80">
-          © {new Date().getFullYear()} Tu Nombre. Todos los derechos reservados.
+          © {new Date().getFullYear()} Carlos Pérez Delgado. Todos los derechos reservados.
         </div>
       </footer>
     </div>
