@@ -9,27 +9,27 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: 'Undressed',
-    description: 'Aplicación web con funcionalidad de scraping, frontend moderno y backend robusto',
+    title: 'NailDesing',
+    description: 'Aplicación web con funcionalidad total realizada con Angular y Laravel',
     category: 'Desarrollo Web',
-    techs: ['React', 'TailwindCSS', 'Node.js', 'Flask'],
-    githubUrl: 'https://github.com/tu-usuario/undressed',
-    demoUrl: 'https://undressed.demo.com'
+    techs: ['Angular', 'Laravel', 'Typescript'],
+    githubUrl: 'https://github.com/CarlosPD8/NailDesignLab.git',
+    demoUrl: 'https://github.com/CarlosPD8/NailDesignLab.git'
   },
   {
     title: 'Ninja Turtle Cross',
     description: 'Aplicación móvil multiplataforma con integración de Firebase',
     category: 'Desarrollo Móvil',
     techs: ['Flutter', 'Firebase', 'Dart'],
-    githubUrl: 'https://github.com/tu-usuario/ninja-turtle-cross',
-    demoUrl: 'https://ninjaturtlecross.demo.com'
+    githubUrl: 'https://github.com/TeamArtic/froggame.git',
+    demoUrl: 'https://totugasninjalosdelfondo.netlify.app/html/mainmenu.html'
   },
   {
-    title: 'Proyecto 3',
-    description: 'Breve descripción de tu tercer proyecto',
+    title: 'IceVending',
+    description: 'Aplicación móvil multiplataforma con Flutter',
     category: 'Full-Stack',
-    techs: ['Vue', 'Express', 'MongoDB'],
-    githubUrl: 'https://github.com/tu-usuario/proyecto-3',
-    demoUrl: 'https://proyecto3.demo.com'
+    techs: ['Flutter', 'Dart', 'MongoDB'],
+    githubUrl: 'https://github.com/CarlosPD8/Flutter_App.git',
+    demoUrl: 'https://github.com/CarlosPD8/Flutter_App.git'
   }
 ]

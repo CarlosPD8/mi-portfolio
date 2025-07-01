@@ -95,21 +95,6 @@ export default function Projects() {
           ))}
         </div>
 
-        <div className="mt-12 text-center">
-          <a
-            href="/proyectos"
-            className="
-              inline-block 
-              border border-[#006666] 
-              text-[#006666] 
-              hover:bg-[#006666]/10 
-              rounded-lg px-6 py-3 
-              font-medium transition
-            "
-          >
-            Ver todos los proyectos
-          </a>
-        </div>
       </div>
     </section>
   )
